@@ -62,7 +62,7 @@ In the wizard, select Java library and click “Next”.
 
 ![](architecture_create_data_choose_java_lib.png)
 
-Under Library name, type domain.
+Under Library name, type data.
 
 ![](architecture_create_data_change_name_data.png)
 
