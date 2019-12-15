@@ -1,0 +1,8 @@
+package com.example.domain.core;
+
+import io.reactivex.Single;
+
+public interface SingleUseCase<T> {
+
+    Single<T> execute();
+}
