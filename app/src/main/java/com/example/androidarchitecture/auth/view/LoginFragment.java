@@ -110,7 +110,7 @@ public class LoginFragment extends Fragment {
                 if(!hasErrors())
                 {
                     InputUtil.hideKeyboard();
-                }
+                }as
             }
 
 
