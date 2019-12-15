@@ -53,3 +53,25 @@ Another principle of Clean Architecture is the Dependency Rule. This rule specif
 
 
 
+Right click on AndroidArchitecture in Project explorer and select New ▸ Module or select File ▸ New ▸ New Module.
+
+![](architecture_create_data_module.png)
+
+
+In the wizard, select Java library and click “Next”.
+
+![](architecture_create_data_choose_java_lib.png)
+
+Under Library name, type domain.
+
+![](architecture_create_data_change_name_data.png)
+
+
+
+
+
+
+
+
+
+
