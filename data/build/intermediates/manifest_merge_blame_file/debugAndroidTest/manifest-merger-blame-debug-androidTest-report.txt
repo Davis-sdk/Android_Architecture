@@ -1,0 +1,197 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.data.test" >
+4
+5    <uses-sdk
+5-->C:\Users\temor\Documents\AndroidArchitecture\data\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger7730835781328703590.xml:5:5-74
+6        android:minSdkVersion="21"
+6-->C:\Users\temor\Documents\AndroidArchitecture\data\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger7730835781328703590.xml:5:15-41
+7        android:targetSdkVersion="27" />
+7-->C:\Users\temor\Documents\AndroidArchitecture\data\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger7730835781328703590.xml:5:42-71
+8
+9    <instrumentation
+9-->C:\Users\temor\Documents\AndroidArchitecture\data\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger7730835781328703590.xml:11:5-15:71
+10        android:name="android.support.test.runner.AndroidJUnitRunner"
+10-->C:\Users\temor\Documents\AndroidArchitecture\data\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger7730835781328703590.xml:11:22-83
+11        android:functionalTest="false"
+11-->C:\Users\temor\Documents\AndroidArchitecture\data\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger7730835781328703590.xml:14:22-52
+12        android:handleProfiling="false"
+12-->C:\Users\temor\Documents\AndroidArchitecture\data\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger7730835781328703590.xml:13:22-53
+13        android:label="Tests for com.example.data.test"
+13-->C:\Users\temor\Documents\AndroidArchitecture\data\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger7730835781328703590.xml:15:22-69
+14        android:targetPackage="com.example.data.test" />
+14-->C:\Users\temor\Documents\AndroidArchitecture\data\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger7730835781328703590.xml:12:22-67
+15
+16    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+16-->[com.google.firebase:firebase-firestore:17.1.0] C:\Users\temor\.gradle\caches\transforms-2\files-2.1\0990ef66b93f0a140aeaa905dedd4c74\jetified-firebase-firestore-17.1.0\AndroidManifest.xml:10:5-79
+16-->[com.google.firebase:firebase-firestore:17.1.0] C:\Users\temor\.gradle\caches\transforms-2\files-2.1\0990ef66b93f0a140aeaa905dedd4c74\jetified-firebase-firestore-17.1.0\AndroidManifest.xml:10:22-76
+17    <uses-permission android:name="android.permission.INTERNET" />
+17-->[com.google.firebase:firebase-firestore:17.1.0] C:\Users\temor\.gradle\caches\transforms-2\files-2.1\0990ef66b93f0a140aeaa905dedd4c74\jetified-firebase-firestore-17.1.0\AndroidManifest.xml:11:5-67
+17-->[com.google.firebase:firebase-firestore:17.1.0] C:\Users\temor\.gradle\caches\transforms-2\files-2.1\0990ef66b93f0a140aeaa905dedd4c74\jetified-firebase-firestore-17.1.0\AndroidManifest.xml:11:22-64
+18    <uses-permission android:name="android.permission.WAKE_LOCK" />
+18-->[com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\temor\.gradle\caches\transforms-2\files-2.1\76703a828bfd77e95907192a7990e77c\jetified-firebase-measurement-connector-impl-16.0.1\AndroidManifest.xml:24:5-68
+18-->[com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\temor\.gradle\caches\transforms-2\files-2.1\76703a828bfd77e95907192a7990e77c\jetified-firebase-measurement-connector-impl-16.0.1\AndroidManifest.xml:24:22-65
+19    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+19-->[com.google.firebase:firebase-analytics:16.0.1] C:\Users\temor\.gradle\caches\transforms-2\files-2.1\901a2979d03c1b549acb8e2b4138ba38\jetified-firebase-analytics-16.0.1\AndroidManifest.xml:26:5-110
+19-->[com.google.firebase:firebase-analytics:16.0.1] C:\Users\temor\.gradle\caches\transforms-2\files-2.1\901a2979d03c1b549acb8e2b4138ba38\jetified-firebase-analytics-16.0.1\AndroidManifest.xml:26:22-107
+20    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+20-->[com.google.firebase:firebase-iid:16.0.0] C:\Users\temor\.gradle\caches\transforms-2\files-2.1\fea7b997c070c14fd286a6415656b600\jetified-firebase-iid-16.0.0\AndroidManifest.xml:26:5-82
+20-->[com.google.firebase:firebase-iid:16.0.0] C:\Users\temor\.gradle\caches\transforms-2\files-2.1\fea7b997c070c14fd286a6415656b600\jetified-firebase-iid-16.0.0\AndroidManifest.xml:26:22-79
+21
+22    <permission
+22-->[com.google.firebase:firebase-iid:16.0.0] C:\Users\temor\.gradle\caches\transforms-2\files-2.1\fea7b997c070c14fd286a6415656b600\jetified-firebase-iid-16.0.0\AndroidManifest.xml:28:5-30:47
+23        android:name="com.example.data.test.permission.C2D_MESSAGE"
+23-->[com.google.firebase:firebase-iid:16.0.0] C:\Users\temor\.gradle\caches\transforms-2\files-2.1\fea7b997c070c14fd286a6415656b600\jetified-firebase-iid-16.0.0\AndroidManifest.xml:29:9-63
+24        android:protectionLevel="signature" />
+24-->[com.google.firebase:firebase-iid:16.0.0] C:\Users\temor\.gradle\caches\transforms-2\files-2.1\fea7b997c070c14fd286a6415656b600\jetified-firebase-iid-16.0.0\AndroidManifest.xml:30:9-44
+25
+26    <uses-permission android:name="com.example.data.test.permission.C2D_MESSAGE" />
+26-->[com.google.firebase:firebase-iid:16.0.0] C:\Users\temor\.gradle\caches\transforms-2\files-2.1\fea7b997c070c14fd286a6415656b600\jetified-firebase-iid-16.0.0\AndroidManifest.xml:32:5-79
+26-->[com.google.firebase:firebase-iid:16.0.0] C:\Users\temor\.gradle\caches\transforms-2\files-2.1\fea7b997c070c14fd286a6415656b600\jetified-firebase-iid-16.0.0\AndroidManifest.xml:32:22-76
+27
+28    <application
+28-->C:\Users\temor\Documents\AndroidArchitecture\data\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger7730835781328703590.xml:7:5-9:19
+29        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+29-->[androidx.core:core:1.0.0] C:\Users\temor\.gradle\caches\transforms-2\files-2.1\ec609e8cee787e2dff3592c66b08a66a\core-1.0.0\AndroidManifest.xml:22:18-86
+30        android:debuggable="true" >
+30-->C:\Users\temor\Documents\AndroidArchitecture\data\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger7730835781328703590.xml:7:18-43
+31        <uses-library android:name="android.test.runner" />
+31-->C:\Users\temor\Documents\AndroidArchitecture\data\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger7730835781328703590.xml:8:9-60
+31-->C:\Users\temor\Documents\AndroidArchitecture\data\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger7730835781328703590.xml:8:23-57
+32
+33        <service android:name="com.google.firebase.components.ComponentDiscoveryService" >
+33-->[com.google.firebase:firebase-firestore:17.1.0] C:\Users\temor\.gradle\caches\transforms-2\files-2.1\0990ef66b93f0a140aeaa905dedd4c74\jetified-firebase-firestore-17.1.0\AndroidManifest.xml:14:9-18:19
+33-->[com.google.firebase:firebase-firestore:17.1.0] C:\Users\temor\.gradle\caches\transforms-2\files-2.1\0990ef66b93f0a140aeaa905dedd4c74\jetified-firebase-firestore-17.1.0\AndroidManifest.xml:14:18-89
+34            <meta-data
+34-->[com.google.firebase:firebase-firestore:17.1.0] C:\Users\temor\.gradle\caches\transforms-2\files-2.1\0990ef66b93f0a140aeaa905dedd4c74\jetified-firebase-firestore-17.1.0\AndroidManifest.xml:15:13-17:85
+35                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
+35-->[com.google.firebase:firebase-firestore:17.1.0] C:\Users\temor\.gradle\caches\transforms-2\files-2.1\0990ef66b93f0a140aeaa905dedd4c74\jetified-firebase-firestore-17.1.0\AndroidManifest.xml:16:17-111
+36                android:value="com.google.firebase.components.ComponentRegistrar" />
+36-->[com.google.firebase:firebase-firestore:17.1.0] C:\Users\temor\.gradle\caches\transforms-2\files-2.1\0990ef66b93f0a140aeaa905dedd4c74\jetified-firebase-firestore-17.1.0\AndroidManifest.xml:17:17-82
+37            <meta-data
+37-->[com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\temor\.gradle\caches\transforms-2\files-2.1\76703a828bfd77e95907192a7990e77c\jetified-firebase-measurement-connector-impl-16.0.1\AndroidManifest.xml:28:13-30:85
+38                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+38-->[com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\temor\.gradle\caches\transforms-2\files-2.1\76703a828bfd77e95907192a7990e77c\jetified-firebase-measurement-connector-impl-16.0.1\AndroidManifest.xml:29:17-139
+39                android:value="com.google.firebase.components.ComponentRegistrar" />
+39-->[com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\temor\.gradle\caches\transforms-2\files-2.1\76703a828bfd77e95907192a7990e77c\jetified-firebase-measurement-connector-impl-16.0.1\AndroidManifest.xml:30:17-82
+40            <meta-data
+40-->[com.google.firebase:firebase-iid:16.0.0] C:\Users\temor\.gradle\caches\transforms-2\files-2.1\fea7b997c070c14fd286a6415656b600\jetified-firebase-iid-16.0.0\AndroidManifest.xml:36:13-38:85
+41                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
+41-->[com.google.firebase:firebase-iid:16.0.0] C:\Users\temor\.gradle\caches\transforms-2\files-2.1\fea7b997c070c14fd286a6415656b600\jetified-firebase-iid-16.0.0\AndroidManifest.xml:37:17-96
+42                android:value="com.google.firebase.components.ComponentRegistrar" />
+42-->[com.google.firebase:firebase-iid:16.0.0] C:\Users\temor\.gradle\caches\transforms-2\files-2.1\fea7b997c070c14fd286a6415656b600\jetified-firebase-iid-16.0.0\AndroidManifest.xml:38:17-82
+43        </service>
+44
+45        <receiver
+45-->[com.google.firebase:firebase-analytics:16.0.1] C:\Users\temor\.gradle\caches\transforms-2\files-2.1\901a2979d03c1b549acb8e2b4138ba38\jetified-firebase-analytics-16.0.1\AndroidManifest.xml:29:9-33:20
+46            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+46-->[com.google.firebase:firebase-analytics:16.0.1] C:\Users\temor\.gradle\caches\transforms-2\files-2.1\901a2979d03c1b549acb8e2b4138ba38\jetified-firebase-analytics-16.0.1\AndroidManifest.xml:30:13-85
+47            android:enabled="true"
+47-->[com.google.firebase:firebase-analytics:16.0.1] C:\Users\temor\.gradle\caches\transforms-2\files-2.1\901a2979d03c1b549acb8e2b4138ba38\jetified-firebase-analytics-16.0.1\AndroidManifest.xml:31:13-35
+48            android:exported="false" >
+48-->[com.google.firebase:firebase-analytics:16.0.1] C:\Users\temor\.gradle\caches\transforms-2\files-2.1\901a2979d03c1b549acb8e2b4138ba38\jetified-firebase-analytics-16.0.1\AndroidManifest.xml:32:13-37
+49        </receiver>
+50        <receiver
+50-->[com.google.firebase:firebase-analytics:16.0.1] C:\Users\temor\.gradle\caches\transforms-2\files-2.1\901a2979d03c1b549acb8e2b4138ba38\jetified-firebase-analytics-16.0.1\AndroidManifest.xml:34:9-42:20
+51            android:name="com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver"
+51-->[com.google.firebase:firebase-analytics:16.0.1] C:\Users\temor\.gradle\caches\transforms-2\files-2.1\901a2979d03c1b549acb8e2b4138ba38\jetified-firebase-analytics-16.0.1\AndroidManifest.xml:35:13-100
+52            android:enabled="true"
+52-->[com.google.firebase:firebase-analytics:16.0.1] C:\Users\temor\.gradle\caches\transforms-2\files-2.1\901a2979d03c1b549acb8e2b4138ba38\jetified-firebase-analytics-16.0.1\AndroidManifest.xml:36:13-35
+53            android:exported="true"
+53-->[com.google.firebase:firebase-analytics:16.0.1] C:\Users\temor\.gradle\caches\transforms-2\files-2.1\901a2979d03c1b549acb8e2b4138ba38\jetified-firebase-analytics-16.0.1\AndroidManifest.xml:37:13-36
+54            android:permission="android.permission.INSTALL_PACKAGES" >
+54-->[com.google.firebase:firebase-analytics:16.0.1] C:\Users\temor\.gradle\caches\transforms-2\files-2.1\901a2979d03c1b549acb8e2b4138ba38\jetified-firebase-analytics-16.0.1\AndroidManifest.xml:38:13-69
+55            <intent-filter>
+55-->[com.google.firebase:firebase-analytics:16.0.1] C:\Users\temor\.gradle\caches\transforms-2\files-2.1\901a2979d03c1b549acb8e2b4138ba38\jetified-firebase-analytics-16.0.1\AndroidManifest.xml:39:13-41:29
+56                <action android:name="com.android.vending.INSTALL_REFERRER" />
+56-->[com.google.firebase:firebase-analytics:16.0.1] C:\Users\temor\.gradle\caches\transforms-2\files-2.1\901a2979d03c1b549acb8e2b4138ba38\jetified-firebase-analytics-16.0.1\AndroidManifest.xml:40:17-79
+56-->[com.google.firebase:firebase-analytics:16.0.1] C:\Users\temor\.gradle\caches\transforms-2\files-2.1\901a2979d03c1b549acb8e2b4138ba38\jetified-firebase-analytics-16.0.1\AndroidManifest.xml:40:25-76
+57            </intent-filter>
+58        </receiver>
+59
+60        <service
+60-->[com.google.firebase:firebase-analytics:16.0.1] C:\Users\temor\.gradle\caches\transforms-2\files-2.1\901a2979d03c1b549acb8e2b4138ba38\jetified-firebase-analytics-16.0.1\AndroidManifest.xml:44:9-47:40
+61            android:name="com.google.android.gms.measurement.AppMeasurementService"
+61-->[com.google.firebase:firebase-analytics:16.0.1] C:\Users\temor\.gradle\caches\transforms-2\files-2.1\901a2979d03c1b549acb8e2b4138ba38\jetified-firebase-analytics-16.0.1\AndroidManifest.xml:45:13-84
+62            android:enabled="true"
+62-->[com.google.firebase:firebase-analytics:16.0.1] C:\Users\temor\.gradle\caches\transforms-2\files-2.1\901a2979d03c1b549acb8e2b4138ba38\jetified-firebase-analytics-16.0.1\AndroidManifest.xml:46:13-35
+63            android:exported="false" />
+63-->[com.google.firebase:firebase-analytics:16.0.1] C:\Users\temor\.gradle\caches\transforms-2\files-2.1\901a2979d03c1b549acb8e2b4138ba38\jetified-firebase-analytics-16.0.1\AndroidManifest.xml:47:13-37
+64        <service
+64-->[com.google.firebase:firebase-analytics:16.0.1] C:\Users\temor\.gradle\caches\transforms-2\files-2.1\901a2979d03c1b549acb8e2b4138ba38\jetified-firebase-analytics-16.0.1\AndroidManifest.xml:48:9-52:72
+65            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+65-->[com.google.firebase:firebase-analytics:16.0.1] C:\Users\temor\.gradle\caches\transforms-2\files-2.1\901a2979d03c1b549acb8e2b4138ba38\jetified-firebase-analytics-16.0.1\AndroidManifest.xml:49:13-87
+66            android:enabled="true"
+66-->[com.google.firebase:firebase-analytics:16.0.1] C:\Users\temor\.gradle\caches\transforms-2\files-2.1\901a2979d03c1b549acb8e2b4138ba38\jetified-firebase-analytics-16.0.1\AndroidManifest.xml:50:13-35
+67            android:exported="false"
+67-->[com.google.firebase:firebase-analytics:16.0.1] C:\Users\temor\.gradle\caches\transforms-2\files-2.1\901a2979d03c1b549acb8e2b4138ba38\jetified-firebase-analytics-16.0.1\AndroidManifest.xml:51:13-37
+68            android:permission="android.permission.BIND_JOB_SERVICE" />
+68-->[com.google.firebase:firebase-analytics:16.0.1] C:\Users\temor\.gradle\caches\transforms-2\files-2.1\901a2979d03c1b549acb8e2b4138ba38\jetified-firebase-analytics-16.0.1\AndroidManifest.xml:52:13-69
+69
+70        <receiver
+70-->[com.google.firebase:firebase-iid:16.0.0] C:\Users\temor\.gradle\caches\transforms-2\files-2.1\fea7b997c070c14fd286a6415656b600\jetified-firebase-iid-16.0.0\AndroidManifest.xml:41:9-50:20
+71            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+71-->[com.google.firebase:firebase-iid:16.0.0] C:\Users\temor\.gradle\caches\transforms-2\files-2.1\fea7b997c070c14fd286a6415656b600\jetified-firebase-iid-16.0.0\AndroidManifest.xml:42:13-78
+72            android:exported="true"
+72-->[com.google.firebase:firebase-iid:16.0.0] C:\Users\temor\.gradle\caches\transforms-2\files-2.1\fea7b997c070c14fd286a6415656b600\jetified-firebase-iid-16.0.0\AndroidManifest.xml:43:13-36
+73            android:permission="com.google.android.c2dm.permission.SEND" >
+73-->[com.google.firebase:firebase-iid:16.0.0] C:\Users\temor\.gradle\caches\transforms-2\files-2.1\fea7b997c070c14fd286a6415656b600\jetified-firebase-iid-16.0.0\AndroidManifest.xml:44:13-73
+74            <intent-filter>
+74-->[com.google.firebase:firebase-iid:16.0.0] C:\Users\temor\.gradle\caches\transforms-2\files-2.1\fea7b997c070c14fd286a6415656b600\jetified-firebase-iid-16.0.0\AndroidManifest.xml:45:13-49:29
+75                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+75-->[com.google.firebase:firebase-iid:16.0.0] C:\Users\temor\.gradle\caches\transforms-2\files-2.1\fea7b997c070c14fd286a6415656b600\jetified-firebase-iid-16.0.0\AndroidManifest.xml:46:17-81
+75-->[com.google.firebase:firebase-iid:16.0.0] C:\Users\temor\.gradle\caches\transforms-2\files-2.1\fea7b997c070c14fd286a6415656b600\jetified-firebase-iid-16.0.0\AndroidManifest.xml:46:25-78
+76
+77                <category android:name="com.example.data.test" />
+77-->[com.google.firebase:firebase-iid:16.0.0] C:\Users\temor\.gradle\caches\transforms-2\files-2.1\fea7b997c070c14fd286a6415656b600\jetified-firebase-iid-16.0.0\AndroidManifest.xml:48:17-61
+77-->[com.google.firebase:firebase-iid:16.0.0] C:\Users\temor\.gradle\caches\transforms-2\files-2.1\fea7b997c070c14fd286a6415656b600\jetified-firebase-iid-16.0.0\AndroidManifest.xml:48:27-58
+78            </intent-filter>
+79        </receiver>
+80        <!--
+81             FirebaseInstanceIdService performs security checks at runtime,
+82             no need for explicit permissions despite exported="true"
+83        -->
+84        <service
+84-->[com.google.firebase:firebase-iid:16.0.0] C:\Users\temor\.gradle\caches\transforms-2\files-2.1\fea7b997c070c14fd286a6415656b600\jetified-firebase-iid-16.0.0\AndroidManifest.xml:56:9-62:19
+85            android:name="com.google.firebase.iid.FirebaseInstanceIdService"
+85-->[com.google.firebase:firebase-iid:16.0.0] C:\Users\temor\.gradle\caches\transforms-2\files-2.1\fea7b997c070c14fd286a6415656b600\jetified-firebase-iid-16.0.0\AndroidManifest.xml:57:13-77
+86            android:exported="true" >
+86-->[com.google.firebase:firebase-iid:16.0.0] C:\Users\temor\.gradle\caches\transforms-2\files-2.1\fea7b997c070c14fd286a6415656b600\jetified-firebase-iid-16.0.0\AndroidManifest.xml:58:13-36
+87            <intent-filter android:priority="-500" >
+87-->[com.google.firebase:firebase-iid:16.0.0] C:\Users\temor\.gradle\caches\transforms-2\files-2.1\fea7b997c070c14fd286a6415656b600\jetified-firebase-iid-16.0.0\AndroidManifest.xml:59:13-61:29
+87-->[com.google.firebase:firebase-iid:16.0.0] C:\Users\temor\.gradle\caches\transforms-2\files-2.1\fea7b997c070c14fd286a6415656b600\jetified-firebase-iid-16.0.0\AndroidManifest.xml:59:28-51
+88                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+88-->[com.google.firebase:firebase-iid:16.0.0] C:\Users\temor\.gradle\caches\transforms-2\files-2.1\fea7b997c070c14fd286a6415656b600\jetified-firebase-iid-16.0.0\AndroidManifest.xml:60:17-80
+88-->[com.google.firebase:firebase-iid:16.0.0] C:\Users\temor\.gradle\caches\transforms-2\files-2.1\fea7b997c070c14fd286a6415656b600\jetified-firebase-iid-16.0.0\AndroidManifest.xml:60:25-77
+89            </intent-filter>
+90        </service>
+91
+92        <activity
+92-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\temor\.gradle\caches\transforms-2\files-2.1\d52dd44c5181a112fbe7496e13a901f1\jetified-play-services-base-16.0.1\AndroidManifest.xml:23:9-26:75
+93            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+93-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\temor\.gradle\caches\transforms-2\files-2.1\d52dd44c5181a112fbe7496e13a901f1\jetified-play-services-base-16.0.1\AndroidManifest.xml:24:13-79
+94            android:exported="false"
+94-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\temor\.gradle\caches\transforms-2\files-2.1\d52dd44c5181a112fbe7496e13a901f1\jetified-play-services-base-16.0.1\AndroidManifest.xml:25:13-37
+95            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+95-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\temor\.gradle\caches\transforms-2\files-2.1\d52dd44c5181a112fbe7496e13a901f1\jetified-play-services-base-16.0.1\AndroidManifest.xml:26:13-72
+96
+97        <provider
+97-->[com.google.firebase:firebase-common:16.0.3] C:\Users\temor\.gradle\caches\transforms-2\files-2.1\8abc1d3252ecb5ba0714c2295ed479a1\jetified-firebase-common-16.0.3\AndroidManifest.xml:10:9-14:39
+98            android:name="com.google.firebase.provider.FirebaseInitProvider"
+98-->[com.google.firebase:firebase-common:16.0.3] C:\Users\temor\.gradle\caches\transforms-2\files-2.1\8abc1d3252ecb5ba0714c2295ed479a1\jetified-firebase-common-16.0.3\AndroidManifest.xml:11:13-77
+99            android:authorities="com.example.data.test.firebaseinitprovider"
+99-->[com.google.firebase:firebase-common:16.0.3] C:\Users\temor\.gradle\caches\transforms-2\files-2.1\8abc1d3252ecb5ba0714c2295ed479a1\jetified-firebase-common-16.0.3\AndroidManifest.xml:12:13-72
+100            android:exported="false"
+100-->[com.google.firebase:firebase-common:16.0.3] C:\Users\temor\.gradle\caches\transforms-2\files-2.1\8abc1d3252ecb5ba0714c2295ed479a1\jetified-firebase-common-16.0.3\AndroidManifest.xml:13:13-37
+101            android:initOrder="100" />
+101-->[com.google.firebase:firebase-common:16.0.3] C:\Users\temor\.gradle\caches\transforms-2\files-2.1\8abc1d3252ecb5ba0714c2295ed479a1\jetified-firebase-common-16.0.3\AndroidManifest.xml:14:13-36
+102
+103        <meta-data
+103-->[com.google.android.gms:play-services-basement:16.0.1] C:\Users\temor\.gradle\caches\transforms-2\files-2.1\5473bf9d646c5814fcb029c754a9019f\jetified-play-services-basement-16.0.1\AndroidManifest.xml:23:9-25:69
+104            android:name="com.google.android.gms.version"
+104-->[com.google.android.gms:play-services-basement:16.0.1] C:\Users\temor\.gradle\caches\transforms-2\files-2.1\5473bf9d646c5814fcb029c754a9019f\jetified-play-services-basement-16.0.1\AndroidManifest.xml:24:13-58
+105            android:value="@integer/google_play_services_version" />
+105-->[com.google.android.gms:play-services-basement:16.0.1] C:\Users\temor\.gradle\caches\transforms-2\files-2.1\5473bf9d646c5814fcb029c754a9019f\jetified-play-services-basement-16.0.1\AndroidManifest.xml:25:13-66
+106    </application>
+107
+108</manifest>
